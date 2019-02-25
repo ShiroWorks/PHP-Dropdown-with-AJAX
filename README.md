@@ -1,2 +1,2 @@
 # PHP-Dropdown-with-AJAX
-Get users details from a database
+Get users details from a database.
